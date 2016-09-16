@@ -3,6 +3,12 @@ import java.util.*;
 /**
  * Created by brunodevesa on 16/09/16.
  */
+
+/**
+ * Sorting a ArrayList according to a chosen attribute without any lexicography natural order.
+ * Made with Comparator usein custom and reusable comparators
+ */
+
 public class Person {
 
     public enum Gender {
